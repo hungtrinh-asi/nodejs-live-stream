@@ -5,6 +5,10 @@ Install ffmpeg first:
 sudo apt install ffmpeg
 ```
 
+*Set PORT
+*Set VIDEO_PATH 
+Inside .env file
+
 Start server
 ```
 npm install
